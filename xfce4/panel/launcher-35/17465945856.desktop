@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=desktop 2
+Comment=
+Exec=wmctrl -s 1
+Icon=window-minimize
+Path=
+Terminal=false
+StartupNotify=false

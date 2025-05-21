@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=desktop 1
+Comment=
+Exec=wmctrl -s 0
+Icon=kdenlive-zone-start
+Path=
+Terminal=false
+StartupNotify=false

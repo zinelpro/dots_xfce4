@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-image-shading" type="double" value="0.69999999999999996"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
+  <property name="misc-slim-tabs" type="bool" value="false"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-maximize-default" type="bool" value="true"/>
+  <property name="font-name" type="string" value="Monospace 12"/>
+  <property name="misc-borders-default" type="bool" value="false"/>
+  <property name="scrolling-on-keystroke" type="bool" value="false"/>
+  <property name="kinetic-scrolling" type="bool" value="false"/>
+  <property name="scrolling-on-output" type="bool" value="true"/>
+  <property name="overlay-scrolling" type="bool" value="true"/>
+  <property name="scrolling-unlimited" type="bool" value="false"/>
+  <property name="scrolling-lines" type="uint" value="1000"/>
+  <property name="misc-cursor-blinks" type="bool" value="true"/>
+  <property name="misc-copy-on-select" type="bool" value="false"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
+  <property name="background-darkness" type="double" value="0.65000000000000002"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="command-login-shell" type="bool" value="false"/>
+  <property name="run-custom-command" type="bool" value="false"/>
+  <property name="use-default-working-dir" type="bool" value="false"/>
+  <property name="font-use-system" type="bool" value="true"/>
+  <property name="encoding" type="string" value=""/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_REPLACE"/>
+  <property name="custom-command" type="string" value="tmux"/>
+</channel>
